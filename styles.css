@@ -1,0 +1,70 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #00ffff;
+}
+
+h1 {
+  margin: 30px;
+font-family: 'Teko', sans-serif;
+  text-shadow: 2px 0 #232931;
+  font-size: 6rem;
+  color: 	#ff0000;
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  color: 	#ff4000;
+  font-family: 'Patrick Hand', cursive;
+}
+
+img {
+  width: 60%;
+}
+
+footer {
+  margin-top: 5%;
+  color: black;
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+
+}
+.btn {
+  background: #2f75a3;
+  background-image: -webkit-linear-gradient(top, #2f75a3, #2980b9);
+  background-image: -moz-linear-gradient(top, #2f75a3, #2980b9);
+  background-image: -ms-linear-gradient(top, #2f75a3, #2980b9);
+  background-image: -o-linear-gradient(top, #2f75a3, #2980b9);
+  background-image: linear-gradient(to bottom, #2f75a3, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 28px 14px 28px;
+  border: solid #000000 3px;
+  text-decoration: none;
+  margin-top: 4rem;;
+}
+
+.btn:hover {
+  background: #059fff;
+  background-image: -webkit-linear-gradient(top, #059fff, #3498db);
+  background-image: -moz-linear-gradient(top, #059fff, #3498db);
+  background-image: -ms-linear-gradient(top, #059fff, #3498db);
+  background-image: -o-linear-gradient(top, #059fff, #3498db);
+  background-image: linear-gradient(to bottom, #059fff, #3498db);
+  text-decoration: none;
+}
